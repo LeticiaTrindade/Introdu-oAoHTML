@@ -1,0 +1,37 @@
+
+html {
+    background-image: linear-gradient(rgb(180, 85, 125), rgb(116, 221, 195));
+    background-repeat: no-repeat;
+    height: 100%;
+    padding: 10px;
+}
+
+title {
+    font-size: 200px;
+}
+
+body {
+    color: rgb(237, 243, 243);
+    font-family:'Courier New', Courier, monospace;
+    max-width: 900px;
+    margin: auto;
+    text-align: center;
+}
+
+.imgSelfie { 
+    border-radius: 50%;
+    max-width: 200px;
+}
+
+a {
+    color:rgb(180, 85, 125);
+}
+
+.horizontal{
+    display: inline-block;
+    padding-right: 4px;
+}
+
+ul {
+    list-style: square;
+}
