@@ -14,8 +14,11 @@ body {
     color: rgb(237, 243, 243);
     font-family:'Courier New', Courier, monospace;
     max-width: 900px;
-    margin: auto;
+    margin: 200px;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
+   
 }
 
 .imgSelfie { 
@@ -24,7 +27,7 @@ body {
 }
 
 a {
-    color:rgb(180, 85, 125);
+    color:rgb(243, 223, 232);
 }
 
 .horizontal{
